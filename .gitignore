@@ -203,3 +203,4 @@ pip-selfcheck.json
 
 ### Ignore input files
 In*.txt
+.vscode/launch.json
